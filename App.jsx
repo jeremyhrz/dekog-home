@@ -39,7 +39,7 @@ const productos = [
   { id: 35, nombre: 'Jana', precio: 450, categoria: 'Camas', imagen: '/muebles/jana.png', desc: 'Base Lisa Individual' },
   { id: 36, nombre: 'London', precio: 985, categoria: 'Sofás', imagen: '/muebles/london.png', desc: 'Diseño Urbano' },
   { id: 37, nombre: 'Londres', precio: 985, categoria: 'Sofás', imagen: '/muebles/londres.png', desc: 'Diseño Urbano' },
-  { id: 38, nombre: 'Cama Manila', precio: 405, categoria: 'Camas', imagen: '/muebles/manila.png', desc: 'Base Lisa Individual' },
+  { id: 38, nombre: 'Cama Manila', precio: 405, categoria: 'Camas', imagen: '/muebles/manilla.png', desc: 'Base Lisa Individual' },
   { id: 39, nombre: 'Maxima', precio: 450, categoria: 'Camas', imagen: '/muebles/maxima.png', desc: 'Base Lisa Individual' },
   { id: 40, nombre: 'Cama Milan', precio: 445, categoria: 'Camas', imagen: '/muebles/milan.png', desc: 'Base Lisa Individual' },
   { id: 41, nombre: 'Missisipi', precio: 1200, categoria: 'Sofás', imagen: '/muebles/missisipi.png', desc: 'Diseño Exclusivo' },
