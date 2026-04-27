@@ -56,7 +56,7 @@ const productos = [
   { id: 52, nombre: 'Seul', precio: 1095, categoria: 'Sofás', imagen: '/muebles/seul.png', desc: 'Minimalismo Puro' },
   { id: 53, nombre: 'Singapure', precio: 1200, categoria: 'Sofás', imagen: '/muebles/singapure.png', desc: 'Diseño Exclusivo' },
   { id: 54, nombre: 'Sydney', precio: 1200, categoria: 'Sofás', imagen: '/muebles/sydney.png', desc: 'Diseño Exclusivo' },
-  { id: 55, nombre: 'Tailandia', precio: 1200, categoria: 'Sofás', imagen: '/muebles/tzilandia.png', desc: 'Diseño Exclusivo' },
+  { id: 55, nombre: 'Tailandia', precio: 1200, categoria: 'Sofás', imagen: '/muebles/tailandia.png', desc: 'Diseño Exclusivo' },
   { id: 56, nombre: 'Texas', precio: 1255, categoria: 'Sofás', imagen: '/muebles/texas.png', desc: 'Robusto y Elegante' },
   { id: 57, nombre: 'Cama Tokyo', precio: 405, categoria: 'Camas', imagen: '/muebles/tokyo.png', desc: 'Base Lisa Individual' },
   { id: 58, nombre: 'Cama Toronto', precio: 405, categoria: 'Camas', imagen: '/muebles/toronto.png', desc: 'Base Lisa Individual' },
